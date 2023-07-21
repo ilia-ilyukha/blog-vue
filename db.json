@@ -1,0 +1,60 @@
+{
+    "posts": [
+        {
+            "id": "1",
+            "title": "First great post of great blog",
+            "underTitle": "Lorem ipsum dolor amet nullam consequat etiam feugiat",
+            "author": {
+                "name": "Jane Doe",
+                "avatar": "src/assets/images/avatar.jpg"
+            },
+            "published": {
+                "datetime": "2015-11-01",
+                "time": "November 1, 2015",
+                "status": "published"
+            },
+            "image": "src/assets/images/pic01.jpg",
+            "annotation": "Mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies mi non congue ullam corper. Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.",
+            "hearts": "28",
+            "comments": "128"
+        },
+        {
+            "id": "2",
+            "title": "Second great post of great blog",
+            "underTitle": "Lorem ipsum dolor amet nullam consequat etiam feugiat",
+            "author": {
+                "name": "Jane Doe",
+                "avatar": "src/assets/images/avatar.jpg"
+            },
+            "published": {
+                "datetime": "2015-11-01",
+                "time": "November 1, 2015",
+                "status": "published"
+            },
+            "image": "src/assets/images/pic02.jpg",
+            "annotation": "Mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies mi non congue ullam corper. Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.",
+            "hearts": "28",
+            "comments": "128"
+        },
+        {
+            "id": "3",
+            "title": "Third great post of great blog",
+            "underTitle": "Lorem ipsum dolor amet nullam consequat etiam feugiat",
+            "author": {
+                "name": "Jane Doe",
+                "avatar": "src/assets/images/avatar.jpg"
+            },
+            "published": {
+                "datetime": "2015-11-01",
+                "time": "November 1, 2015",
+                "status": "published"
+            },
+            "image": "src/assets/images/pic03.jpg",
+            "annotation": "Mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies mi non congue ullam corper. Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.",
+            "hearts": "28",
+            "comments": "128"
+        }
+
+    ]
+}
+
